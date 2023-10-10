@@ -4,6 +4,6 @@
 
 ### -Dev Mehta
 
-### -Shailza Thakur
-
 ### -Astha Jha
+
+### -Shailza Thakur
