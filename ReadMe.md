@@ -95,9 +95,11 @@ It involves training a **_Convolutional Neural Network (CNN)_** on labeled satel
 In our project, we've harnessed the power of the Python library, **OSMnx**, along with open-source mapping resources to create a sophisticated system for street mapping. With this technology, users have the flexibility to select their desired location and mode of transport. Our system then swiftly computes and displays the shortest distance between the chosen points. Integrating our initial model for flood detection, we take it a step further. Before suggesting a path, our system assesses the safety of the route by evaluating if the path is flooded or not. This dynamic fusion of street mapping and flood detection ensures that users can make informed decisions about their travel routes, especially during flood-related situations, thus enhancing safety and efficiency.
 
 **_Safe Path_**
+<br>
 ![Alt text](/Screenshots/image-1.png)
 
 **_Flooded Path_**
+<br>
 ![Alt text](/Screenshots/image-2.png)
 
 ## 🖥️Tech Stack
