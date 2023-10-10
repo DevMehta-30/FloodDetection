@@ -27,7 +27,7 @@ It involves training a **_Convolutional Neural Network (CNN)_** on labeled satel
   ‘Source’ folder as earlier mentioned contains images from December 2018 to may 2019. We have made separate folders for each corresponding date separately containing 12 files each.
   The 12 files includes Tif files starting from B01 to B12 which typically refer to different bands or spectral channels of data.
   <br>
-  ![Alt text](image.png)
+  ![Alt text](/Screenshots/image.png)
   <br>
   B1 - Blue Band: The blue band typically captures information in the blue part of the visible spectrum.
   <br>
@@ -62,7 +62,7 @@ It involves training a **_Convolutional Neural Network (CNN)_** on labeled satel
   <br><br>
   Rest are some python modules like cv2,glob,shutil and subprocess specifically helping with file path expansions and managing the root directories.
   After processing in the end we get a list containing all source files which in this comes to be around ‘1189’.
-  ![Alt text](<WhatsApp Image 2023-10-10 at 12.40.44_49d15476.jpg>)
+  ![Alt text](</Screenshots/image-3.jpg>)
 
 - **Data Modeeling**
   <br>
@@ -86,19 +86,19 @@ It involves training a **_Convolutional Neural Network (CNN)_** on labeled satel
 - **Conclusion**
   <br>
   After evaluating the above model we get an accuracy of 82%.
-  ![Alt text](<WhatsApp Image 2023-10-10 at 12.42.51_3bb5d2f9.jpg>)
+  ![Alt text](</Screenshots/image-4.jpg>)
   <br><br>
-  ![Alt text](<WhatsApp Image 2023-10-10 at 12.44.42_d6763f36.jpg>)
+  ![Alt text](</Screenshots/image-5.jpg>)
 
 ## 🛣️Path Assessment
 
 In our project, we've harnessed the power of the Python library, **OSMnx**, along with open-source mapping resources to create a sophisticated system for street mapping. With this technology, users have the flexibility to select their desired location and mode of transport. Our system then swiftly computes and displays the shortest distance between the chosen points. Integrating our initial model for flood detection, we take it a step further. Before suggesting a path, our system assesses the safety of the route by evaluating if the path is flooded or not. This dynamic fusion of street mapping and flood detection ensures that users can make informed decisions about their travel routes, especially during flood-related situations, thus enhancing safety and efficiency.
 
 **_Safe Path_**
-![Alt text](image-1.png)
+![Alt text](/Screenshots/image-1.png)
 
 **_Flooded Path_**
-![Alt text](image-2.png)
+![Alt text](/Screenshots/image-2.png)
 
 ## 🖥️Tech Stack
 
